@@ -30,12 +30,12 @@ const Page = () => (
       <Insights />
     </div>
     <div className="realtive">
-      <Insights />
+         <Feedback />
       <div className="gradient-03 z-0" />
 
-      <Feedback />
+     <Footer />
     </div>
-    <Footer />
+  
   </div>
 );
 
